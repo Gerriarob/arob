@@ -17,7 +17,7 @@ in case of an Chrome OS update or a powerwash, you have to reroot your Android c
 this Version is only tested on Intel CPU with Crome OS v80+ installed with Brunch framework. It could work on v76+ i dont know, if you rooted with this scripts Android v76+, let me know.
 
 many thanks go to nolirium for the base of the scripts and the knowlege.
-the scripts developement stoped in 2018 and the scripts where broken for the new Chrome OS installations, so i decide to figure it out and correct and rewrite the scripts. If nolirium have a problem with this, please contact me in telegram. (i have tried to contact you, but now answer replied from you).
+the scripts developement stoped in 2018 and the scripts where broken for the new Chrome OS installations, so i decide to figure it out and correct and rewrite the scripts. If nolirium have a problem with this, please contact me in telegram. (i have tried to contact you, but no answer replied from you).
 
 
 
