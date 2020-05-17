@@ -26,7 +26,7 @@ First:
 
 extract the root.zip in your Download folder, there are 2 folders, 2 scripts and 1 apk inside the zip file.
 
-you must have in your Download folder: 
+you must have in your Downloads folder:
 
 x86
 common
@@ -38,29 +38,27 @@ readme.md
 
 Second:
 
-a)  open a terminal with "ctrl + alt + t"
-b)  type in crosh "shell"
-c)  type in the shell "cd ~/Downloads/"
-d)  get root with "sudo su"
-e)  check script permissions with "ls -l" the scripts should be executeable, do this with "chmod +x root.sh" and "chmod +x selinux.sh"
+a) open a terminal with 'ctrl + alt + t'
+b) type in crosh 'shell'
+c) type in the shell 'cd ~/Downloads'
+d) get root with 'sudo su'
+e) check script permission with 'ls -l' the scripts should be executeable, do this with 'chmod +x root.sh' and 'chmod +x selinux.sh
 
 
 Third:
 
-run the script root.sh with following command "sh root.sh"
+run the script root.sh with following command 'sh root.sh'
 
 if no error occurs, reboot the machine.
 if an error occurs, you can rerun the script.
 
 
 Fourth:
-
-a)  open a terminal with "ctrl + alt + t"
-b)  type in crosh "shell"
-c)  type in the shell "cd ~/Downloads/"
-d)  get root with "sudo su"
-e)  run the script selinux.sh with following command and watch the output, its interactive "sh selinux.sh"
-f)  reboot machine
+a) open a terminal with 'ctrl + alt + t'
+b) type in crosh 'shell'
+c) type in the shell 'cd ~/Downloads'
+d) get root with 'sudo su'
+e) run the script selinux.sh with following command and watch the output, its interactive 'sh selinux.sh'
 
 
 Fifth:
