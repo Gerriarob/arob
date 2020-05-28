@@ -1,7 +1,7 @@
 # arob
 Android rooting on Brunch Framework
 
-
+arob doesnt work in Downloads anymore, as a workaround, create a folder in /usr/local and copy content from arob.zip in the new created folder. run the scripts from the /usr/local/new_created_folder.
 
 arob v0.10 Beta state (android rooting on brunch)
 
