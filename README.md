@@ -24,7 +24,7 @@ the scripts developement stoped in 2018 and the scripts where broken for the new
 
 First:
 
-extract the root.zip in your Download folder, there are 2 folders, 2 scripts and 1 apk inside the zip file.
+extract the arob-v0.10.zip in your Download folder, there are 2 folders, 2 scripts and 1 apk inside the zip file.
 
 you must have in your Downloads folder:
 
